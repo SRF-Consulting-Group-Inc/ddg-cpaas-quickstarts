@@ -7,10 +7,10 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.9",
     "cookie-parser": "^1.4.5",
     "debug": "~4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.22.3",
     "morgan": "^1.10.0",
     "patch-package": "^6.2.2",
     "pug": "^2.0.4",
